@@ -20,11 +20,15 @@ python .\checksum.py "STRING MOT FLAG"
 ## Question 1 : Windows
 
 En quelle année sommes-nous? (Regarder l'image associée)
+On est en 2006!
 
 ## Question 2 : Wordle
 
 - 2.1 Quel est le score minimal au Scrabble (Anglophone) si notre banque de mot est celui de Wordle
+5 points (steer)
 - 2.2 Quel est le mot qui peut rapporter le plus de points au Scrabble (Anglophone) si notre banque de mot est celui du Wordle?
+21 points (jiffy)
+honorable mention quick que j'ai trouve par moi meme sans rien regarder 20 points
 
 ## Question 3 : Ingénieurs
 
@@ -39,6 +43,11 @@ checksum -> 105
 ## Question 5 : RGB
 
 Regarder l'image associée.
+Mes essais:
+prendre le RGB du vert (avec et sans espace) 49 168 81
+la somme des RGB
+prendre le HEX du vert #31a851
+la couleur n'a pas de nom officiel https://color-register.org/color/31A851 
 
 checksum -> 116
 
@@ -49,5 +58,8 @@ checksum -> 116
 ## Question 7 : 200
 
 Regarder le fichier associé, whats going on? 200?
+
+never gonna give you up
+QR code avec 200 char par ligne
 
 checksum -> 270 | 266
